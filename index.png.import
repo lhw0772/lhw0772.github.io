@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bsooa2j7a66rg"
-path="res://.godot/imported/aiendgame.png-7ebe93e6043b5171f0ab95b9cf52e935.ctex"
+uid="uid://bggpugopybuid"
+path="res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://aiendgame.png"
-dest_files=["res://.godot/imported/aiendgame.png-7ebe93e6043b5171f0ab95b9cf52e935.ctex"]
+source_file="res://index.png"
+dest_files=["res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex"]
 
 [params]
 
